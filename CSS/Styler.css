@@ -17,3 +17,23 @@ body{
 h3{
     text-decoration: underline;
 }
+a:link{
+    color: lightblue;
+    background-color:  transparent;
+    text-decoration: none;
+  }
+a:visited{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
