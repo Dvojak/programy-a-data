@@ -5,7 +5,7 @@ header{
     font-size: 35px;
     /*width: 300px;*/
     font-weight: 900;
-    text-decoration: underline;
+    
 }
 body{
     background-color: #202020;
@@ -14,9 +14,7 @@ body{
     width: 60%;
     margin: auto;
 }
-h3{
-    text-decoration: underline;
-}
+
 a:link{
     color: lightblue;
     background-color:  transparent;
